@@ -44,8 +44,6 @@
 | `refresh ETH` | Refreshes latest data for Ethereum |
 | `predict BTC for next 7 days` | Predicts Bitcoin prices for the next 7 days |
 | `predict ETH for next 30 days` | Predicts Ethereum prices for the next 30 days |
-| `plot BTC` | Displays Bitcoin price forecast chart |
-| `plot ETH` | Displays Ethereum price forecast chart |
 | `help` | Shows available commands |
 | `exit` | Ends the chat session |
 
